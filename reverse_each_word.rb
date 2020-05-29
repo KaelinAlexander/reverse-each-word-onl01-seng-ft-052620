@@ -7,4 +7,5 @@ words=[]
     words << word.reverse
   end
 puts words
+binding.pry
 end
