@@ -5,7 +5,7 @@ words=[]
   array=string.split(" ")
   array.each do |word|
     words << word.reverse
-    binding.pry
   end
+  binding.pry
 puts words
 end
