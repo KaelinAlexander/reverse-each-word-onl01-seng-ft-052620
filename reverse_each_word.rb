@@ -7,5 +7,5 @@ words=[]
     words << word.reverse
   end
 reversed=words.join(" ")
-words
+reversed
 end
