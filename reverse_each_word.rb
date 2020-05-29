@@ -6,6 +6,6 @@ words=[]
   array.each do |word|
     words << word.reverse
   end
-  binding.pry
 puts words
+words
 end
