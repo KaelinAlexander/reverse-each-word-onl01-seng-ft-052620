@@ -6,6 +6,6 @@ words=[]
   array.each do |word|
     words << word.reverse
   end
-words.
+reversed=words.join(" ")
 words
 end
