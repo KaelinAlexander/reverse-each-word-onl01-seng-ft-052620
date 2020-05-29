@@ -6,6 +6,6 @@ words=[]
   string.each do |word|
     words << word.reverse
   end
-puts words
 binding.pry
+puts words
 end
